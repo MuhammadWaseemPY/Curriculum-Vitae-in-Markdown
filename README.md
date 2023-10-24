@@ -10,7 +10,7 @@
 **Email:** waseemwbehost@gmail.com\
  **Nationality:** Pakistani\
      **CNIC:** 3540149711045\
-     **Specialization:** RS&GIS
+     **Specialization:** RS&GIS\
 [GitHub](https://github.com/MuhammadWaseemPY)
 
 

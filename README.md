@@ -4,8 +4,8 @@
 
 
 ### Personal Information
+ **Name:** Muhammad Waseem\
  **Phone:** 03026367149\
-**Name:** Muhammad Waseem\
 **Address:** Qtr No E4 Power House Colony GTPS Lahore\
 **Email:** waseemwbehost@gmail.com\
  **Nationality:** Pakistani\
@@ -26,7 +26,7 @@ ___
   - **Graduation Year:** 2017
 
 
-### Experiance Record
+## Experiance Record
 
 - **Designation:** GIS Analyst
  - **Company:** MM Pakistan Pvt Ltd

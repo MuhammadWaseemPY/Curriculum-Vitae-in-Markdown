@@ -26,13 +26,13 @@ ___
   - **Graduation Year:** 2017
 
 
-## Experiance Record
+### Experiance Record
 
 - **Designation:** GIS Analyst
  - **Company:** MM Pakistan Pvt Ltd
   
 
-### Projects
+## Projects
 
 
 - Ghotki Drainage Projet

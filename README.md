@@ -4,12 +4,11 @@
 
 
 ### Personal Information
-
+ **Phone:** 03026367149\
 **Name:** Muhammad Waseem\
 **Address:** Qtr No E4 Power House Colony GTPS Lahore\
 **Email:** waseemwbehost@gmail.com\
- **Phone:** 03026367149\
-  **Nationality:** Pakistani\
+ **Nationality:** Pakistani\
      **CNIC:** 3540149711045\
      **Specialization:** RS&GIS
 

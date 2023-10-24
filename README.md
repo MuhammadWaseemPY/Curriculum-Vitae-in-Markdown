@@ -1,4 +1,4 @@
-# Curriculum Vitae
+
 
 ![Alt Text](C:\Users\Waseem\Downloads\WaseemImage)
 
@@ -11,7 +11,7 @@
  **Nationality:** Pakistani\
      **CNIC:** 3540149711045\
      **Specialization:** RS&GIS\
-[GitHub](https://github.com/MuhammadWaseemPY) [LinkedIn](https://https://www.linkedin.com/in/muhammad-waseem-a21a4223b/)
+[LinkedIn](https://https://www.linkedin.com/in/muhammad-waseem-a21a4223b/)
 
 
 ___
